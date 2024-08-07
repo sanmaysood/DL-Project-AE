@@ -8,6 +8,8 @@ Both the encoder and decoder architectures follow the ResNet style, with residua
 The dataset used in this project consists of two folders:
 - **clean**: Contains the clean MNIST images.
 - **aug**: Contains the augmented versions of the clean MNIST images.
+
+  
 Download the dataset from the following link:
 [Download Dataset](https://drive.google.com/drive/folders/1m2HQS_lLy7zEZfwYefm3lFkvtEiOXff9?usp=sharing)
 
